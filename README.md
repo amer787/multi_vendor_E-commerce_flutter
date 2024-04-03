@@ -1,4 +1,4 @@
-# first_store_nodejs_flutter
+# store_mobile_nodejs_flutter
 
 A new Flutter project.
 
