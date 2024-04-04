@@ -1,4 +1,4 @@
-# store_mobile_nodejs_flutter
+# store_mobile_flutter
 
 A new Flutter project.
 
