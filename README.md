@@ -5,7 +5,7 @@ With an admin control panel
 
 ## User
 
-  Products Page                 |   Tablets Page       |  Product Detail Page
+  Home Page                 |   Tablets Page       |  Product Detail Page
  :-------------------------:|:-------------------------:|:-------------------------:
 <img width="467" alt="Screenshot 2024-04-06 at 1 20 12 AM" src="https://github.com/amer787/multi_vendor_E-commerce_flutter/assets/46135816/2ff79133-e21b-42fc-99ae-5b8e05300206">|<img width="451" alt="Screenshot 2024-04-06 at 12 53 56 AM" src="https://github.com/amer787/multi_vendor_E-commerce_flutter/assets/46135816/d92ec94c-52f4-4a18-b901-05fce8c2081b">|<img width="450" alt="Screenshot 2024-04-06 at 12 54 10 AM" src="https://github.com/amer787/multi_vendor_E-commerce_flutter/assets/46135816/6a807781-f5d8-44c8-8544-086506ae7c9d">
 
