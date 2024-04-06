@@ -1,6 +1,6 @@
 
 Multi-vendor E-commerce
-With an admin control panel
+With an admin control panel.
 
 
 ## User
